@@ -1,0 +1,5 @@
+{
+  "name": "Vibe Check: Persona Evaluator",
+  "description": "An interactive tool to evaluate AI persona consistency against specific character archetypes using Gemini.",
+  "requestFramePermissions": []
+}
